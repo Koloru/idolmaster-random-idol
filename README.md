@@ -2,6 +2,7 @@
 # Random Idol
 
 Shows a random idol from the idolmaster series. Data is fetched from Starlight Kirara DB
+Clicking on the character icon changes the background
 
 
 
