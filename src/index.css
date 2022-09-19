@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cute {
+	color: "#FFDCF3";
+}
+.cool {
+	color: "#0f82f5";
+}
+.passion {
+	color: "#FFE0B7";
+}
